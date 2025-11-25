@@ -34,15 +34,16 @@
 
 ## Ресурсы для самостоятельного изучения:
 
-[Документация платформы](https://its.1c.ru/db/v838doc)
-Каналы на YouTube по 1С  
-Курс Милькина [Онлайн-школа 1С программирования](https://helpme1s.ru/shkola-programmirovaniya-v-1s)
+[Документация платформы](https://its.1c.ru/db/v838doc)  
+Каналы на YouTube по 1С   
+Курс Милькина [Онлайн-школа 1С программирования](https://helpme1s.ru/shkola-programmirovaniya-v-1s)  
 Форумы сообщества (infostart.ru, forum.infostart.ru, mista.ru)
 
 ## Срок сдачи заданий: Пятница 22:00 
 Задания присылать на почту fa@kb99.pro  
 
 ## Вопросы можно задать в [группе Телеграмм](https://t.me/+n4r-kQA_LzUwMmM6)
+
 
 
 
